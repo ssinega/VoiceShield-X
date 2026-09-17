@@ -1,0 +1,41 @@
+# ─── Node / Frontend ───────────────────────────────────────────
+node_modules/
+dist/
+.cache/
+.parcel-cache/
+.vite/
+coverage/
+
+# ─── Environment files (never commit secrets) ──────────────────
+.env
+.env.local
+.env.production
+.env.*.local
+
+# ─── Python / Backend ──────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+.eggs/
+dist/
+build/
+*.dist-info/
+.pytest_cache/
+
+# ─── OS / Editor ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ─── Vercel / Build outputs ────────────────────────────────────
+.vercel/
+.next/
+out/
