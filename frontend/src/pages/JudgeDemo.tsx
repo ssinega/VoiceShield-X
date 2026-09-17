@@ -250,7 +250,7 @@ export default function JudgeDemo() {
             </button>
             <Shield className="w-5 h-5 text-cyan-400" />
             <span className="text-white font-bold text-sm">
-              VoiceShield <span className="text-cyan-400">X</span>
+              VoiceShield <span className="text-cyan-400">AI</span>
             </span>
             <span
               className="hidden sm:flex items-center gap-1.5 px-2.5 py-1 rounded-full border text-xs font-bold"
@@ -335,7 +335,7 @@ export default function JudgeDemo() {
                 }}
               >
                 <span className="w-1.5 h-1.5 rounded-full bg-red-400 animate-pulse inline-block" />
-                JUDGE DEMO MODE — VOICESHIELD X
+                JUDGE DEMO MODE — VOICESHIELD AI
               </div>
 
               <h1
@@ -353,7 +353,7 @@ export default function JudgeDemo() {
                 </span>
               </h1>
               <p className="text-gray-500 max-w-md mx-auto text-sm leading-relaxed">
-                Watch VoiceShield X detect each stage of a real-world bank impersonation scam
+                Watch VoiceShield AI detect each stage of a real-world bank impersonation scam
                 in real time — from first call to full intervention.
               </p>
             </div>

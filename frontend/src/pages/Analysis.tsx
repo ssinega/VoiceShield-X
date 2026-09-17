@@ -133,7 +133,7 @@ export default function Analysis() {
               <ArrowLeft className="w-5 h-5" />
             </button>
             <Shield className="w-6 h-6 text-cyan-400" />
-            <span className="text-white font-bold">VoiceShield <span className="text-cyan-400">X</span></span>
+            <span className="text-white font-bold">VoiceShield <span className="text-cyan-400">AI</span></span>
             {r && (
               <span className={`px-3 py-1 rounded-full text-xs font-bold border ${
                 r.risk_level === 'CRITICAL' ? 'risk-badge-critical' :
@@ -271,7 +271,7 @@ export default function Analysis() {
           <div className="flex flex-col items-center justify-center min-h-[60vh] gap-6 text-center">
             <Shield className="w-16 h-16 text-cyan-400/40" />
             <div>
-              <h2 className="text-2xl font-bold text-white mb-2">VoiceShield X Intelligence Platform</h2>
+              <h2 className="text-2xl font-bold text-white mb-2">VoiceShield AI Intelligence Platform</h2>
               <p className="text-gray-500 max-w-md">Select a scenario below or paste a transcript to run full fraud intelligence analysis.</p>
             </div>
             <div className="flex flex-col sm:flex-row gap-3">

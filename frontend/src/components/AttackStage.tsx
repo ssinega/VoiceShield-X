@@ -15,7 +15,7 @@ const STAGES: { key: AttackStage; label: string; desc: string; color: string; ic
   { key: 'CREDENTIAL_REQUEST',     label: 'Credential Request',desc: 'Demands OTP / PIN / password',   color: '#dc2626', icon: '⑥' },
   { key: 'PAYMENT_REQUEST',        label: 'Payment Request',   desc: 'Requests money transfer',         color: '#dc2626', icon: '⑦' },
   { key: 'IMMINENT_HARM',          label: '⚠ Imminent Harm',  desc: 'Financial loss imminent',         color: '#ef4444', icon: '⑧' },
-  { key: 'INTERVENTION',           label: '🛑 Intervention',   desc: 'VoiceShield X block triggered',  color: '#ef4444', icon: '🛑' },
+  { key: 'INTERVENTION',           label: '🛑 Intervention',   desc: 'VoiceShield AI block triggered', color: '#ef4444', icon: '🛑' },
 ];
 
 export default function AttackStageComponent({ currentStage, animate }: Props) {

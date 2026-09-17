@@ -1,5 +1,5 @@
 /**
- * VoiceShield X — Local Data Module
+ * VoiceShield AI — Local Data Module
  *
  * All analysis is 100% local/deterministic.
  * No backend, no API keys, no network calls required.

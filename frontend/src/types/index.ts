@@ -1,5 +1,5 @@
 // =============================================
-// VoiceShield X — TypeScript Type Definitions
+// VoiceShield AI — TypeScript Type Definitions
 // =============================================
 
 export type RiskLevel = 'CRITICAL' | 'HIGH' | 'MEDIUM' | 'LOW' | 'SAFE';

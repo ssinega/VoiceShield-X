@@ -149,7 +149,7 @@ export default function Intervention({ level, actions, reasons }: Props) {
       {/* Separator + disclaimer */}
       <div className="mt-5 pt-4 border-t" style={{ borderColor: `${cfg.color}18` }}>
         <p className="text-xs text-gray-600">
-          VoiceShield X Intervention Engine ·{' '}
+          VoiceShield AI Intervention Engine ·{' '}
           <span className="text-gray-700">Hackathon prototype — not a substitute for professional advice</span>
         </p>
       </div>

@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# VoiceShield X
+# VoiceShield AI
 
 > **Predict the Scam. Stop the Harm.**
 
@@ -21,13 +20,13 @@ Voice fraud (vishing) causes billions in annual losses. Victims are manipulated 
 
 Existing solutions only answer: *"Is this a scam?"*
 
-**VoiceShield X answers 7 deeper questions in real time.**
+**VoiceShield AI answers 7 deeper questions in real time.**
 
 ---
 
 ## Core Innovation
 
-| Question | VoiceShield X Answer |
+| Question | VoiceShield AI Answer |
 |----------|---------------------|
 | What scam pattern is occurring? | **Scam DNA extraction** |
 | What stage of the attack are we in? | **Attack Stage state machine** |
@@ -375,9 +374,9 @@ This system is a hackathon proof of concept. It is **not for production, medical
 
 ---
 
-*Built for hackathon demonstration · VoiceShield X v1.0*
-=======
-Open the Vite URL shown in the terminal.
+*Built for hackathon demonstration · VoiceShield AI v1.0*
+
+---
 
 ## Optional transcription
 
@@ -385,5 +384,4 @@ The prototype works without external AI credentials by using a deterministic dem
 
 ## Important
 
-VoiceShield-X is a decision-support prototype. It should not be treated as proof that a call is fraudulent. Always verify important claims independently.
->>>>>>> e823d31a797f4ffc5ecac7769dc7769fb09179f9
+VoiceShield AI is a decision-support prototype. It should not be treated as proof that a call is fraudulent. Always verify important claims independently.

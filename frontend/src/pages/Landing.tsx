@@ -62,7 +62,7 @@ export default function Landing() {
             </div>
             <div>
               <span className="text-white font-bold text-lg tracking-tight">VoiceShield</span>
-              <span className="text-cyan-400 font-bold text-lg"> X</span>
+              <span className="text-cyan-400 font-bold text-lg"> AI</span>
             </div>
           </div>
           <div className="hidden md:flex items-center gap-6 text-sm">
@@ -91,7 +91,7 @@ export default function Landing() {
 
           <h1 className="text-5xl md:text-7xl font-black text-white mb-6 leading-tight">
             Voice<span className="text-cyan-400 text-glow-cyan">Shield</span>{' '}
-            <span className="text-white">X</span>
+            <span className="text-cyan-400">AI</span>
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-300 mb-4 font-medium">
@@ -260,7 +260,7 @@ export default function Landing() {
           <div className="text-center mb-10">
             <p className="text-xs font-semibold uppercase tracking-widest text-cyan-500/70 mb-3">The Core Question</p>
             <h2 className="text-3xl font-bold text-white mb-4">Beyond "Is this a scam?"</h2>
-            <p className="text-gray-500">VoiceShield X answers 7 critical questions in real time</p>
+            <p className="text-gray-500">VoiceShield AI answers 7 critical questions in real time</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {[
@@ -310,7 +310,7 @@ export default function Landing() {
         <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Shield className="w-5 h-5 text-cyan-400" />
-            <span className="text-white font-bold">VoiceShield X</span>
+            <span className="text-white font-bold">VoiceShield AI</span>
           </div>
           <p className="text-gray-600 text-sm">Hackathon Prototype · All signals are illustrative estimates · Not for production use</p>
         </div>
